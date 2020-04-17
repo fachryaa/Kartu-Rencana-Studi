@@ -173,7 +173,7 @@ void KRS::setMatkul(string matkul, int sks) {
 //=================================================================================================
 
 void KRS::printMatkul() {
-    system("pause");
+    cout<<"fachry ananta";
     system("cls");
     cout<<"==================== Cetak Matkul dan SKS ===================="<<endl<<endl;
     cout<<"=========================================="<<endl;
